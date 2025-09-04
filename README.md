@@ -1,14 +1,14 @@
 # Clinic-Appointment-system-
 It is Doctor Appointment Booking application created by using MERN technology. It is simple and easy to use
 
-#M E R N Stack
+# M E R N Stack
 Techonologies Used in the Project:
 Mongo DB
 Express.js
 React.js
 Node.js(for backend)
 
-#How to run the project :
+# How to run the project :
 
 Create .env file in root directory and add the following things :
 
@@ -22,7 +22,7 @@ JWT_SECRET="your jwt secret"
 
 
 
-#Installing the required dependencies :
+# Installing the required dependencies :
 
 In the root directory : "npm install"
 cd client : "npm install "
@@ -30,7 +30,7 @@ To start the frontend : "npm start"
 
 To start the backend and frontend Concurrently Use : "npm run dev"
 
-#Project Team Members :
+# Project Team Members :
 1.Yash Gaikwad 
 2.Akash galande
 3.Pramod wakshe
