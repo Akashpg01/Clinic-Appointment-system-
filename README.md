@@ -32,5 +32,7 @@ To start the backend and frontend Concurrently Use : "npm run dev"
 
 # Project Team Members :
 1.Yash Gaikwad 
+
 2.Akash galande
+
 3.Pramod wakshe
