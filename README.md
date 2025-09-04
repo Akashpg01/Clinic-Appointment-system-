@@ -3,10 +3,13 @@ It is Doctor Appointment Booking application created by using MERN technology. I
 
 # M E R N Stack
 Techonologies Used in the Project:
-Mongo DB
-Express.js
-React.js
-Node.js(for backend)
+1.Mongo DB
+
+2.Express.js
+
+3.React.js
+
+4.Node.js(for backend)
 
 # How to run the project :
 
@@ -24,11 +27,13 @@ JWT_SECRET="your jwt secret"
 
 # Installing the required dependencies :
 
-In the root directory : "npm install"
-cd client : "npm install "
-To start the frontend : "npm start"
+1.In the root directory : "npm install"
 
-To start the backend and frontend Concurrently Use : "npm run dev"
+2.cd client : "npm install "
+
+3.To start the frontend : "npm start"
+
+4.To start the backend and frontend Concurrently Use : "npm run dev"
 
 # Project Team Members :
 1.Yash Gaikwad 
